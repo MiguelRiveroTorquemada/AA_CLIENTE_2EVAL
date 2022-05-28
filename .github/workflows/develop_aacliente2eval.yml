@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'AACLIENTE2EVAL'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0ECAFAE227AA4DF8BABB257FDEAFD4D1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C1EF15F83CBB463086824F66BB3B7D77 }}
           package: .
